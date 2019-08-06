@@ -1,0 +1,104 @@
+body  {
+  background-image: url(../img/fondo.png);
+  background-repeat: repeat;
+}
+
+.sticky {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+.news {
+  margin: 2% 1% 12% 0%;
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: thin;
+}
+
+
+.carousel {
+  padding-top: 1%;
+}
+
+.row{
+
+  padding-right:1.5%;
+  padding-bottom: 2%;
+
+}
+.col-4{
+  padding-top: 1%;
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: thin;
+
+}
+.col-10 h2{
+  font-size: 3em;
+  padding-top: 2%;
+  text-align: center;
+  padding-left: 20%
+}
+.carousel h2 {
+  background-color: #328ccc;
+  text-shadow: 2px 2px darkblue;
+}
+
+.col-4 h5 {
+  padding-left: 12%
+}
+.col-4 p {
+  padding-left: 12%
+}
+#hola {
+  width: 100%
+}
+.card-header{
+  text-align: center;
+  text-decoration: none;
+}
+li{
+  list-style-type:none;
+  line-height: 180%
+}
+#icon{
+  text-align:left;
+}
+.jumbotron-fluid {
+  background-image: url(https://www.watch-u.mx/newsite/kids/img/galleryiimagen.png);
+  margin-top: 5%
+}
+.col-5 p{
+  text-align: left;
+}
+.col-5 h4{
+  text-align: center;
+  background-color: #328ccc;
+  color: white;
+}
+.col-10 h3 {
+  background-color: #328ccc;
+  text-align: center;
+  color: white;
+}
+.background-navbar {
+  background-color: #328ccc
+}
+.navh2 {
+  color: white
+}
+.info {
+  color: #328ccc
+}
+.col-10 h2 {
+  color: #328ccc;
+}
+.col-4 h4 {
+  padding-left: 12%;
+  color: #328ccc;
+}
+.news2 {
+  margin: 2% 1% 12% 0%;
+  box-sizing: border-box;
