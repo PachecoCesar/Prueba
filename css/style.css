@@ -1,14 +1,9 @@
 body  {
   background-image: url(../img/fondo.png);
   background-repeat: repeat;
+  font-family: sans-serif;
 }
 
-.sticky {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-
-}
 .news {
   margin: 2% 1% 12% 0%;
   box-sizing: border-box;
@@ -19,16 +14,16 @@ body  {
 
 
 .carousel {
-  padding-top: 1%;
+  padding-top: 0.5%;
 }
 
-.row{
+.oh{
 
   padding-right:1.5%;
   padding-bottom: 2%;
 
 }
-.col-4{
+.ver{
   padding-top: 1%;
   border-style: solid;
   border-color: #dddddd;
@@ -49,7 +44,7 @@ body  {
 .col-4 h5 {
   padding-left: 12%
 }
-.col-4 p {
+.ver p {
   padding-left: 12%
 }
 #hola {
@@ -103,3 +98,43 @@ li{
   margin: 2% 1% 12% 0%;
   box-sizing: border-box;
   }
+
+.footer {
+  background-color: #328ccc;
+  position: absolute;
+  bottom: 1;
+  width: 90%;
+  color: white;
+}
+.ah {
+  padding-top: 3%;
+  padding-left: 15%;
+  padding-bottom: 2%
+}
+#mover {
+  padding-top: 3%;
+}
+.ve h5{
+background-color: #328ccc;
+color: white
+}
+.ve{
+  padding-top: 1%;
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: thin;
+}
+.ve p{
+  text-align: center;
+}
+#moverr {
+
+}
+.card-deck{
+  margin: 1% 50% 10% 50%
+}
+.card-title{
+  background-color: #328ccc;
+  color: white;
+  text-align: center;
+}
